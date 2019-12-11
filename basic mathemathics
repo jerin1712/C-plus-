@@ -1,11 +1,3 @@
 #include<iostream>
 using namespace std;
 
-int main()
-{
-int x,y a;
-cout << "value of x=" << endl;
-cout << " value of y=" << endl;
-addtion = x=y
-return0;
-}
