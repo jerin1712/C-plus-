@@ -7,3 +7,17 @@ int main()
     cout<<"enter the value of a,b"<< endl;
     cin>>a>>b;
     
+    c= a+b;
+    cout<<"sum of the number "<<c<<endl;
+    
+    d= a-b;
+    cout<<"division of the number: "<<d<<endl;
+    
+    e= a*b;
+    cout<<"multiplication of the number: "<<e<<endl;
+    
+    f= a/b;
+    cout<<"division of the number: "<<f<<endl;
+   
+      return 0;
+}
